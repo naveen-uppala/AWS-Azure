@@ -12,7 +12,7 @@
 
 1) cd /tmp
 
-2) wget https://dlcdn.apache.org/maven/maven-3/3.9.10/binaries/apache-maven-3.9.10-bin.tar.gz
+2) wget https://dlcdn.apache.org/maven/maven-3/3.9.11/binaries/apache-maven-3.9.11-bin.tar.gz
 
 3) sudo tar xf /tmp/apache-maven-*.tar.gz -C /opt
 
