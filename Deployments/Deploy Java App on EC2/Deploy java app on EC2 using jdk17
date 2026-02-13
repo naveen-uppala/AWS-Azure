@@ -16,7 +16,7 @@
 
 3) sudo tar xf /tmp/apache-maven-*.tar.gz -C /opt
 
-4) sudo ln -s /opt/apache-maven-3.9.11 /opt/maven
+4) sudo ln -s /opt/apache-maven-3.9.12 /opt/maven
 
 5) sudo vi /etc/profile.d/maven.sh
 
