@@ -78,8 +78,10 @@ curl -fsSL https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 |
 ###############################################
 # NodeJS 20 (LTS)
 ###############################################
-curl -fsSL https://rpm.nodesource.com/setup_20.x | bash -
-yum install -y nodejs
+curl -fsSL https://rpm.nodesource.com/setup_22.x | sudo bash -
+yum install -y nsolid
+#curl -fsSL https://rpm.nodesource.com/setup_20.x | bash -
+#yum install -y nodejs
 
 ###############################################
 # Nginx
