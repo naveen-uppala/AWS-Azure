@@ -12,11 +12,11 @@
 
 1) cd /tmp
 
-2) wget https://dlcdn.apache.org/maven/maven-3/3.9.14/binaries/apache-maven-3.9.14-bin.tar.gz
+2) wget https://dlcdn.apache.org/maven/maven-3/3.9.16/binaries/apache-maven-3.9.16-bin.tar.gz
 
 3) sudo tar xf /tmp/apache-maven-*.tar.gz -C /opt
 
-4) sudo ln -s /opt/apache-maven-3.9.14 /opt/maven
+4) sudo ln -s /opt/apache-maven-3.9.16 /opt/maven
 
 5) sudo vi /etc/profile.d/maven.sh
 
