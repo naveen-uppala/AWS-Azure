@@ -8,7 +8,10 @@ curl -fsSL https://rpm.nodesource.com/setup_22.x | sudo bash -
 
 sudo yum install -y nsolid
 
+############# Installation of Production Process Manager ####################
+
 sudo npm install pm2
+
 ############### Installation of GIT #######################
 
 sudo yum install git -y
